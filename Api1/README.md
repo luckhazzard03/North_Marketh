@@ -17,3 +17,7 @@ crear_usuario(usuario, clave)
 Usuario: market
 Contraseña: 
 Usuario creado exitosamente.
+
+# script para validación de usuario:
+
+python3 app.py
