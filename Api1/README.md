@@ -1,5 +1,4 @@
 ## Se instala la libreria 
-pip install -r requirements.txt
 
 
 # USO:
