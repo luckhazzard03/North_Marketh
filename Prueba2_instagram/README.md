@@ -33,7 +33,7 @@ La información se guarda automáticamente en un archivo Excel (`seguidores_inst
 1. Clona este repositorio:
 
 ```bash
-git clone https://github.com/tu_usuario/Prueba2_instagram.git
+git clone https://github.com/luckhazzard03/North_Marketh.git/Prueba2_instagram
 cd Prueba2_instagram
 
 2. Crea un entorno virtual (opcional pero recomendable):
