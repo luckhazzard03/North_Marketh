@@ -44,3 +44,23 @@ source env/bin/activate
 3. Instala las dependencias:
 
 pip install -r requirements.txt
+
+
+# Politicas de la plataforma 
+1. Políticas de la Plataforma de Instagram (Meta Platform Policies)
+Fuente oficial: https://developers.facebook.com/policy
+
+Sección 3.2:
+“No puedes usar técnicas automatizadas para extraer datos de nuestros productos sin nuestro permiso.”
+
+Sección 3.1.5:
+“No recopiles contenido ni información de nuestros Productos usando técnicas de scraping sin nuestro consentimiento previo por escrito.”
+
+
+
+2. Términos de uso de Instagram
+Fuente: https://help.instagram.com/581066165581870
+
+“No debes acceder ni recopilar datos de Instagram usando medios automatizados (sin nuestro permiso), como bots, spiders, scrapers o crawlers.”
+
+"Instagram prohíbe el uso de técnicas automatizadas como el scraping para obtener datos de sus usuarios, incluyendo la fecha de publicación de los posts. Por esta razón, esa información no está disponible en nuestro análisis, respetando sus políticas oficiales de privacidad y uso de datos."
