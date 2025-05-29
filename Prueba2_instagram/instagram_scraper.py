@@ -149,7 +149,7 @@ def procesar_perfil(perfil):
         urls = list(urls)
         print(f"Se encontraron {len(urls)} seguidores únicos.")
 
-        for url in urls[:10]:  # Limitar por seguridad
+        for url in urls[:5]:  # Limitar por seguridad
             info = extraer_info_seguidor(url)
             info["Cuenta origen"] = perfil
             print("\n Info de seguidor:")
@@ -163,7 +163,7 @@ def procesar_perfil(perfil):
 
 # MAIN: ejecución principal del script
 if __name__ == "__main__":
-    perfiles = ["@elcorteingles", "@mercadona", "@carrefoures"]
+    perfiles = ["elcorteingles", "mercadona", "carrefoures"]
     driver = configurar_driver()
     iniciar_sesion(driver)
 
